@@ -1,14 +1,12 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/101479422?v=4" width="140" style="border-radius:50%;border:3px solid #2ECC71" alt="Juryxa avatar"/>
+<img src="./assets/hero-terminal.svg" width="900" alt="Vyacheslav — terminal intro" />
 
-<h1>Hi, I'm Vyacheslav 👋 (Juryxa)</h1>
+<br/><br/>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=2ECC71&background=0D1117&center=true&vCenter=true&width=650&lines=Senior+Full-Stack+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Node.js+%E2%80%A2+NestJS+%E2%80%A2+FastAPI;System+Design+%E2%80%A2+Scalable+Architecture" alt="Typing SVG" />
-</a>
+<img src="https://avatars.githubusercontent.com/u/101479422?v=4" width="110" style="border-radius:50%;border:3px solid #2ECC71" alt="Juryxa avatar"/>
 
-<br/>
+<h2>Hi, I'm Vyacheslav 👋 (Juryxa)</h2>
 
 [![GitHub followers](https://img.shields.io/github/followers/Juryxa?label=Followers&style=for-the-badge&color=2ECC71&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Juryxa?tab=followers)
 [![Profile Views](https://komarev.com/ghpvc/?username=Juryxa&color=2ECC71&style=for-the-badge&label=Profile+Views)](https://github.com/Juryxa)
@@ -26,32 +24,30 @@
 
 **🇷🇺 Русский**
 
-Full-stack разработчик с уверенным опытом создания веб-приложений «под ключ» — от проектирования архитектуры и API до деплоя и сопровождения в проде. Мой основной стек — **React**, **Next.js** и **TypeScript** на клиенте, **Node.js**, **NestJS** и **FastAPI** на сервере.
+Пишу full-stack приложения — от API и бэкенда до интерфейса на React. Основной стек: **React**, **Next.js** и **TypeScript** на фронте, **Node.js**, **NestJS** и **FastAPI** на бэке.
 
-Проектирую REST и GraphQL API, реализую real-time взаимодействие через WebSocket, строю отказоустойчивые сервисы вокруг **PostgreSQL** и **Redis**. Настраиваю CI/CD, контейнеризирую и деплою через **Docker**, **Kubernetes** и **Nginx**, уверенно администрирую **Linux**-серверы.
+Проектирую REST и GraphQL API, реализую real-time фичи через WebSocket, использую **PostgreSQL** и **Redis** для хранения и кэширования. Деплою через **Docker** и **Nginx**, работаю в **Linux**.
 
-Внимательно отношусь к архитектуре, читаемости и тестируемости кода, слежу за современными практиками системного дизайна и люблю разбирать сложные алгоритмические задачи.
+Люблю разбираться, как всё устроено внутри, читать чужой код и искать более простые решения. Иногда решаю задачи на LeetCode — просто потому что нравится.
 
-- 🔭 Проектирую и разрабатываю full-stack приложения полного цикла
-- 🧠 Погружаюсь в системный дизайн, паттерны и оптимизацию производительности
-- ⚙️ Настраиваю CI/CD-пайплайны и облачную инфраструктуру
-- ⚡ LeetCode — моя разминка перед рабочим днём
+- 🔭 Сейчас делаю full-stack pet-проекты и прокачиваю бэкенд-архитектуру
+- 🧩 Люблю разбирать алгоритмические задачи
+- 🛠️ Из инструментов — Docker, Nginx, Git
 
 </td>
 <td width="50%" valign="top">
 
 **🇬🇧 English**
 
-Full-stack developer with solid experience delivering end-to-end web applications — from architecture and API design to deployment and production support. My core stack is **React**, **Next.js** and **TypeScript** on the client side, and **Node.js**, **NestJS** and **FastAPI** on the server side.
+I build full-stack apps — from the API and backend to the interface in React. Core stack: **React**, **Next.js** and **TypeScript** on the frontend, **Node.js**, **NestJS** and **FastAPI** on the backend.
 
-I design REST and GraphQL APIs, build real-time features with WebSocket, and build resilient services around **PostgreSQL** and **Redis**. I set up CI/CD pipelines, containerize and deploy with **Docker**, **Kubernetes** and **Nginx**, and I'm comfortable administering **Linux** servers.
+I design REST and GraphQL APIs, build real-time features with WebSocket, and use **PostgreSQL** and **Redis** for storage and caching. I deploy with **Docker** and **Nginx**, and work in **Linux**.
 
-I care deeply about architecture, readability and testability of code, keep up with modern system design practices, and enjoy tackling non-trivial algorithmic problems.
+I like figuring out how things work under the hood, reading other people's code, and finding simpler solutions. Sometimes I solve LeetCode problems just because it's fun.
 
-- 🔭 Building full-cycle full-stack applications
-- 🧠 Deep dive into system design, patterns & performance
-- ⚙️ Setting up CI/CD pipelines and cloud infrastructure
-- ⚡ LeetCode is my favorite warm-up before coding
+- 🔭 Working on full-stack side projects and backend architecture
+- 🧩 Enjoy digging into algorithmic problems
+- 🛠️ Tools I reach for — Docker, Nginx, Git
 
 </td>
 </tr>
@@ -82,32 +78,11 @@ I care deeply about architecture, readability and testability of code, keep up w
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma&theme=dark&perline=5" alt="Databases" />
 
-**DevOps & Инструменты / Tools**
+**Инструменты / Tools**
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,git,githubactions,aws,jest&theme=dark&perline=8" alt="DevOps & tools" />
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,jest&theme=dark&perline=5" alt="Tools" />
 
 **Алгоритмы и структуры данных / Algorithms & Data Structures** 🧩
-
----
-
-## 📊 Language Usage
-
-<div align="center">
-<img src="./assets/lang-usage.svg" width="640" alt="Language usage chart" />
-</div>
-
----
-
-## 📈 GitHub статистика / Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Juryxa&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=2ECC71&icon_color=2ECC71" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juryxa&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0D1117&title_color=2ECC71" alt="Top languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Juryxa&theme=radical&hide_border=true&background=0D1117&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71" alt="GitHub streak"/>
-
-</div>
 
 ---
 
