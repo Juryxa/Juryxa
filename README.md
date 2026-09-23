@@ -1,33 +1,61 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/101479422?v=4" width="130" style="border-radius:50%" alt="Juryxa avatar"/>
+<img src="https://avatars.githubusercontent.com/u/101479422?v=4" width="140" style="border-radius:50%;border:3px solid #2ECC71" alt="Juryxa avatar"/>
 
 <h1>Hi, I'm Vyacheslav 👋 (Juryxa)</h1>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=2ECC71&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;JavaScript+%2F+TypeScript+%2F+Python;React+%E2%80%A2+Next.js+%E2%80%A2+NestJS;PostgreSQL+%E2%80%A2+Docker+%E2%80%A2+Linux" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=24&pause=1000&color=2ECC71&background=0D1117&center=true&vCenter=true&width=650&lines=Senior+Full-Stack+Developer;React+%E2%80%A2+Next.js+%E2%80%A2+TypeScript;Node.js+%E2%80%A2+NestJS+%E2%80%A2+FastAPI;System+Design+%E2%80%A2+Scalable+Architecture" alt="Typing SVG" />
 </a>
 
-[![GitHub followers](https://img.shields.io/github/followers/Juryxa?label=Followers&style=flat&color=2ECC71)](https://github.com/Juryxa?tab=followers)
-[![Profile Views](https://komarev.com/ghpvc/?username=Juryxa&color=2ECC71&style=flat)](https://github.com/Juryxa)
+<br/>
+
+[![GitHub followers](https://img.shields.io/github/followers/Juryxa?label=Followers&style=for-the-badge&color=2ECC71&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Juryxa?tab=followers)
+[![Profile Views](https://komarev.com/ghpvc/?username=Juryxa&color=2ECC71&style=for-the-badge&label=Profile+Views)](https://github.com/Juryxa)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117)](https://t.me/juryxa)
 
 </div>
 
----
+<br/>
 
 ## 🧑‍💻 Обо мне / About me
 
+<table>
+<tr>
+<td width="50%" valign="top">
+
 **🇷🇺 Русский**
 
-Я full-stack разработчик, уверенно работаю как на фронтенде, так и на бэкенде. Основной стек — **React**, **Next.js** и **TypeScript** на клиенте, **Node.js**, **NestJS** и **FastAPI** на сервере. Проектирую REST API и WebSocket-взаимодействия, работаю с **PostgreSQL**, контейнеризирую и деплою приложения через **Docker** и **Nginx**, уверенно чувствую себя в **Linux**. Люблю писать чистый, поддерживаемый код и разбираться в алгоритмах и структурах данных.
+Full-stack разработчик с уверенным опытом создания веб-приложений «под ключ» — от проектирования архитектуры и API до деплоя и сопровождения в проде. Мой основной стек — **React**, **Next.js** и **TypeScript** на клиенте, **Node.js**, **NestJS** и **FastAPI** на сервере.
+
+Проектирую REST и GraphQL API, реализую real-time взаимодействие через WebSocket, строю отказоустойчивые сервисы вокруг **PostgreSQL** и **Redis**. Настраиваю CI/CD, контейнеризирую и деплою через **Docker**, **Kubernetes** и **Nginx**, уверенно администрирую **Linux**-серверы.
+
+Внимательно отношусь к архитектуре, читаемости и тестируемости кода, слежу за современными практиками системного дизайна и люблю разбирать сложные алгоритмические задачи.
+
+- 🔭 Проектирую и разрабатываю full-stack приложения полного цикла
+- 🧠 Погружаюсь в системный дизайн, паттерны и оптимизацию производительности
+- ⚙️ Настраиваю CI/CD-пайплайны и облачную инфраструктуру
+- ⚡ LeetCode — моя разминка перед рабочим днём
+
+</td>
+<td width="50%" valign="top">
 
 **🇬🇧 English**
 
-I'm a full-stack developer, equally comfortable on the frontend and backend. My core stack is **React**, **Next.js** and **TypeScript** on the client side, and **Node.js**, **NestJS** and **FastAPI** on the server side. I design REST APIs and WebSocket integrations, work with **PostgreSQL**, containerize and deploy applications using **Docker** and **Nginx**, and I'm comfortable in **Linux** environments. I enjoy writing clean, maintainable code and diving into algorithms and data structures.
+Full-stack developer with solid experience delivering end-to-end web applications — from architecture and API design to deployment and production support. My core stack is **React**, **Next.js** and **TypeScript** on the client side, and **Node.js**, **NestJS** and **FastAPI** on the server side.
 
-- 🔭 Currently building full-stack web applications
-- 🌱 Constantly leveling up in system design and backend architecture
-- ⚡ Fun fact: solving LeetCode problems is my favorite way to warm up before coding
+I design REST and GraphQL APIs, build real-time features with WebSocket, and build resilient services around **PostgreSQL** and **Redis**. I set up CI/CD pipelines, containerize and deploy with **Docker**, **Kubernetes** and **Nginx**, and I'm comfortable administering **Linux** servers.
+
+I care deeply about architecture, readability and testability of code, keep up with modern system design practices, and enjoy tackling non-trivial algorithmic problems.
+
+- 🔭 Building full-cycle full-stack applications
+- 🧠 Deep dive into system design, patterns & performance
+- ⚙️ Setting up CI/CD pipelines and cloud infrastructure
+- ⚡ LeetCode is my favorite warm-up before coding
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -40,49 +68,44 @@ I'm a full-stack developer, equally comfortable on the frontend and backend. My 
 
 ---
 
-## 🛠️ Навыки / Tech Stack
+## 🛠️ Tech Stack
 
 **Frontend**
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,html,css,vite,tailwind&theme=dark&perline=8" alt="Frontend stack" />
 
 **Backend**
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![REST](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+<img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,python,fastapi,cpp,graphql,rest&theme=dark&perline=8" alt="Backend stack" />
 
 **Базы данных / Databases**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,prisma&theme=dark&perline=5" alt="Databases" />
 
 **DevOps & Инструменты / Tools**
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,linux,git,githubactions,aws,jest&theme=dark&perline=8" alt="DevOps & tools" />
 
 **Алгоритмы и структуры данных / Algorithms & Data Structures** 🧩
 
 ---
 
-## 📊 GitHub статистика / Stats
+## 📊 Language Usage
+
+<div align="center">
+<img src="./assets/lang-usage.svg" width="640" alt="Language usage chart" />
+</div>
+
+---
+
+## 📈 GitHub статистика / Stats
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Juryxa&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub stats"/>
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juryxa&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top languages"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Juryxa&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=2ECC71&icon_color=2ECC71" alt="GitHub stats"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juryxa&layout=compact&theme=radical&hide_border=true&langs_count=8&bg_color=0D1117&title_color=2ECC71" alt="Top languages"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Juryxa&theme=radical&hide_border=true&background=0D1117&ring=2ECC71&fire=2ECC71&currStreakLabel=2ECC71" alt="GitHub streak"/>
 
 </div>
 
@@ -100,9 +123,13 @@ I'm a full-stack developer, equally comfortable on the frontend and backend. My 
 
 ## 📫 Контакты / Contacts
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/juryxa)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kondratevvyacheslav04@gmail.com
-)
+<div align="center">
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0D1117)](https://t.me/juryxa)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117)](mailto:kondratevvyacheslav04@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Juryxa)
+
+</div>
 
 ---
 
