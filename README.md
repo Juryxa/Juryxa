@@ -4,8 +4,6 @@
 
 <br/><br/>
 
-<img src="https://avatars.githubusercontent.com/u/101479422?v=4" width="110" style="border-radius:50%;border:3px solid #2ECC71" alt="Juryxa avatar"/>
-
 <h2>Hi, I'm Vyacheslav 👋 (Juryxa)</h2>
 
 [![GitHub followers](https://img.shields.io/github/followers/Juryxa?label=Followers&style=for-the-badge&color=2ECC71&logo=github&logoColor=white&labelColor=0D1117)](https://github.com/Juryxa?tab=followers)
