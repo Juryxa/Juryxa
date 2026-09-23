@@ -86,31 +86,23 @@ I'm a full-stack developer, equally comfortable on the frontend and backend. My 
 
 </div>
 
-> 💡 Диаграмма выше показывает реальное распределение языков по репозиториям GitHub (в процентах) и обновляется автоматически.
-> The chart above shows the real language distribution across GitHub repositories (in percent) and updates automatically.
-
 ---
 
 ## 🧩 LeetCode
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/ВАШ_LEETCODE_ЛОГИН?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode stats"/>
+<img src="https://leetcard.jacoblin.cool/Juryxa?theme=dark&font=Baloo%202&ext=heatmap" alt="LeetCode stats"/>
 
 </div>
-
-> ⚠️ Замените `ВАШ_LEETCODE_ЛОГИН` в ссылке выше на свой логин LeetCode, чтобы виджет заработал.
-> ⚠️ Replace `ВАШ_LEETCODE_ЛОГИН` in the link above with your actual LeetCode username to activate the widget.
 
 ---
 
 ## 📫 Контакты / Contacts
 
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ВАШ_ЮЗЕРНЕЙМ)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your_email@example.com)
-
-> ⚠️ Замените `ВАШ_ЮЗЕРНЕЙМ` и `your_email@example.com` на ваши реальные Telegram и почту.
-> ⚠️ Replace `ВАШ_ЮЗЕРНЕЙМ` and `your_email@example.com` with your real Telegram handle and email.
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/juryxa)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kondratevvyacheslav04@gmail.com
+)
 
 ---
 
